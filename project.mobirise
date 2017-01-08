@@ -12,7 +12,7 @@
     "favicon": "",
     "google-analytics": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-    "uniqCompNum": 0,
+    "uniqCompNum": 2,
     "noImageResize": ""
   },
   "pages": {
@@ -661,6 +661,31 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016&nbsp;Original Template Created By Mobirise Recreated by STC Admin"
+        },
+        {
+          "alias": "htmlblock",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "htmlblock-block",
+          "_anchor": "htmlblock-block-1",
+          "_params": {
+            "blockTitle": "<h3>Block Title</h3>",
+            "HTMLCode": "<h1>HTML Code</h1>",
+            "paddingTop": 20,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "extEdit": true
+          },
+          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
+          "blockTitle": "<h3>Block Title</h3>",
+          "HTMLCode": "<h1>HTML Code</h1>"
         }
       ]
     }
