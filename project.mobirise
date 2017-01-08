@@ -671,7 +671,7 @@
           "_anchor": "htmlblock-block-1",
           "_params": {
             "blockTitle": "<h3>Block Title</h3>",
-            "HTMLCode": "<h1>HTML Code</h1>",
+            "HTMLCode": "<h1><span style=\"text-decoration: line-through;\"><span style=\"text-decoration: underline;\"><em><strong>HTML Code</strong></em></span></span></h1>",
             "paddingTop": 20,
             "bgImageRadio": false,
             "parallax": true,
@@ -685,7 +685,7 @@
           },
           "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
           "blockTitle": "<h3>Block Title</h3>",
-          "HTMLCode": "<h1>HTML Code</h1>"
+          "HTMLCode": "<h1><span style=\"text-decoration: line-through;\"><span style=\"text-decoration: underline;\"><em><strong>HTML Code</strong></em></span></span></h1>"
         }
       ]
     }
